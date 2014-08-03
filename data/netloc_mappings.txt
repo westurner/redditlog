@@ -1,0 +1,6 @@
+encrypted.google.com	www.google.com
+reddit.com	www.reddit.com
+en.m.wikipedia.org	en.wikipedia.org
+wakari.io	www.wakari.io
+healthcare.gov	www.healthcare.gov
+facebook.com	www.facebook.com
